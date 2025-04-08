@@ -10,3 +10,4 @@
   <line x1="50" y1="50" x2="66" y2="33" stroke="black" stroke-width="4px" />
   <line x1="50" y1="50" x2="90" y2="90" stroke="black" stroke-width="8px" />
 </svg>
+  <ellipse transform="rotate(-45)" cx="0" cy="70" rx="30" ry="10" fill="none" stroke="black" stroke-width="1" />
