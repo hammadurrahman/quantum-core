@@ -1,6 +1,6 @@
 defmodule Quantum do
   use TelemetryRegistry
-
+  <ellipse transform="rotate(-45)" cx="0" cy="70" rx="30" ry="10" fill="none" stroke="black" stroke-width="1" />
   telemetry_event(%{
     event: [:quantum, :job, :add],
     description: "dispatched when a job is added",
